@@ -1,2 +1,2 @@
 # living-journal.github.io
-My living journal of learning web development
+My living journal for learning Web Development
